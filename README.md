@@ -1,4 +1,4 @@
-# MazClient | 
+# MazClient | [Mazanius.eu](https://mazanius.eu)
 
 MazClient is a Batch library for injecting .dll files easily, while its impossible to get VAC Banned.
 
@@ -14,7 +14,8 @@ Change your .dll to [csgo.dll]
 
 # Code:
 
-```batch
+[Pastebin.com](https://pastebin.com/KDntE4Ms)
+```
 @echo off
 SETLOCAL EnableDelayedExpansion
 
