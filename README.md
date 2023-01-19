@@ -1,3 +1,13 @@
+# DLL Injector for csgo [ALPHA]
+
+some functions might not work. 
+
+#
+
+This project is still being worked on.
+
+
+
 # MazClient | [Mazanius.eu](https://www.mazanius.eu)
 
 MazClient is a Batch library for injecting .dll files easily, while its impossible to get VAC Banned.
@@ -14,7 +24,7 @@ Change your .dll to [csgo.dll]
 
 ## No main Batch file FIX
 
-If the Main batch file (NOT the API) doesnt exist open Misc and it should be in there somewhere :)
+If the Main batch file (NOT the API) doesnt exist open "Misc" and it should be in there somewhere :)
 
 
 # Code:
