@@ -4,7 +4,9 @@ MazClient is a Batch library for injecting .dll files easily, while its impossib
 
 ## Installation
 
-Use the package manager [batch](https://pip.pypa.io/en/stable/) to install MazClient.
+Read about [batch](https://en.wikipedia.org/wiki/Batch_file) and what it is used for.
+
+Source: Wikipedia
 
 ```bash
 Change your .dll to [csgo.dll]
@@ -222,4 +224,3 @@ Please make sure to update tests as appropriate.
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-
