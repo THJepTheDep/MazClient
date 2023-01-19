@@ -8,7 +8,8 @@ Read about [batch](https://en.wikipedia.org/wiki/Batch_file) and what it is used
 
 Source: Wikipedia
 
-bash
+# How to use
+
 Change your .dll to [csgo.dll]
 
 
