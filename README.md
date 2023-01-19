@@ -1,4 +1,4 @@
-# MazClient | [Mazanius.eu](https://mazanius.eu)
+# MazClient | [Mazanius.eu](https://www.mazanius.eu)
 
 MazClient is a Batch library for injecting .dll files easily, while its impossible to get VAC Banned.
 
